@@ -1,33 +1,23 @@
-# Fashion Cube-Ecommerce Application
+### Ecommerce Template 👋
 
-#General Info
+[Demo](https://samwitadhikary.github.io/Ecommerce/)
 
-front-end: Reactjs, Redux, Axios, Sass, react-bootstrap
+## Working!
+- It is a pure Ecommerce Template made Purely in HTML and CSS with Full Responsive Mode. It has multipage functionality and awesome looks.
+- Want to get this source code. Do fork it. 
+- Have any more ideas, make a pull request.
 
-[Live Demo](https://quintuslabs.github.io/fashion-cube)
+### Connect with me:
 
-## This project is created using:
+[<img align="left" alt="samwitadhikary.github.io/my-profile" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Samwit | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Samwit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Samwit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-- [x] Monorepo
-- [x] Lerna
-- [x] Design System
-- [x] Hooks
-- [x] Redux
+<br />
+---
 
-## Future Features
-
-- Home (List products)
-- Detail products
-- Product category
-- Recommended products
-- Cart
-- Login / Register
-
-# ScreenShot
-
-<img src="screen/screen1.png">
-<img src="screen/screen2.png">
-<img src="screen/screen3.png">
-<img src="screen/screen4.png">
-<img src="screen/screen5.png">
-<img src="screen/screen6.png">
+[website]: https://samwitadhikary.github.io/my-profile
+[twitter]: https://twitter.com/SamwitAdhikary
+[instagram]: https://www.instagram.com/samwit_adhikary
+[linkedin]: https://www.linkedin.com/in/samwit-adhikary-2487161a3/
